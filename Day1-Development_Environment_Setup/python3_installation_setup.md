@@ -6,8 +6,11 @@ Python 3.8.10
 
 sudo apt install python3 </br> 
 
-###### 
+###### pip installation 
 pip: Pip Installs Packages </br>  
 info: It is a package manager for the Python programming language that allows you to download and install Python packages and their dependencies on a Linux system. </br>   
 
 sudo apt install python3-pip
+
+###### Python Virtual Environments 
+ Python Virtual Environments are a method of creating isolated "environments" with specific versions of Python installed along with independent sets of libraries and dependencies.
