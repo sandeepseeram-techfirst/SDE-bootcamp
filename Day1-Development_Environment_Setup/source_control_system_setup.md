@@ -1,13 +1,13 @@
-##### Source Control Systems
-cmd: sudo apt-get install git 
+##### Source Control Systems <br>
+cmd: sudo apt-get install git <br>
 
-verification: 
- git --version 
- git version 2.25.1 
+verification: <br>
+ git --version <br>
+ git version 2.25.1 <br>
 
-##### Git Clone 
-git clone https://github.com/username/repo.git
-Username: your_username
-Password: your_token 
+##### Git Clone <br> 
+git clone https://github.com/username/repo.git <br>
+Username: your_username <br>
+Password: your_token <br>
 
 
