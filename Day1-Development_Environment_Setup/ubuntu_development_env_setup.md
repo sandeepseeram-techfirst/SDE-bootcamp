@@ -14,3 +14,10 @@ sudo apt-get install mate-desktop
 sudo apt-get install ubuntu-gnome-desktop
 ###### XFCE (Xubuntu)
 sudo apt-get install xubuntu-desktop
+
+##### Install some basic Linux tools and utilities.
+###### CURL 
+sudo apt-get install curl
+###### Open-SSL 
+sudo apt-get install libssl-dev (equivalent to openssl-dev on other distributions)
+
