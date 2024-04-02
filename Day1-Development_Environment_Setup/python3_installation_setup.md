@@ -19,5 +19,5 @@ sudo apt install python3-pip
  python3.8 -m venv py3-venv [create] </br>   
  [activate] </br>  
  source py3-venv/bin/activate </br>  
-  # Expected Output </br>  
+ Expected Output </br>  
  (py3-venv) [dev@ubuntu ~]$ </br>   
