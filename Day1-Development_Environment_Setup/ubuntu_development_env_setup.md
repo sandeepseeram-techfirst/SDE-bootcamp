@@ -21,3 +21,5 @@ sudo apt-get install curl
 ###### Open-SSL 
 sudo apt-get install libssl-dev (equivalent to openssl-dev on other distributions)
 
+##### Install the typical developer tools and utilities, for example, the gcc C compiler.
+sudo apt-get install build-essential 
