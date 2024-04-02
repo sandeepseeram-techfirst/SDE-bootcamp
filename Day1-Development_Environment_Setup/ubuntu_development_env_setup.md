@@ -1,8 +1,8 @@
 ### Objectives
-##### Install a basic development toolset on your local workstation.
-##### Verify the tools are all working as expected.
+##### 1. Install a basic development toolset on your local workstation.
+##### 2. Verify the tools are all working as expected.
 
-##### Linux GUI 
+##### Linux GUI Options 
 
 ###### KDE
 sudo apt-get install kubuntu-desktop
