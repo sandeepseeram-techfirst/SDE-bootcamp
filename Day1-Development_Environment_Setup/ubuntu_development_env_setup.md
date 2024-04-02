@@ -27,3 +27,4 @@ sudo apt-get install build-essential
 
 ##### Integrated Development Environment [IDE] 
 vscode 
+ref: https://code.visualstudio.com/docs/setup/linux 
