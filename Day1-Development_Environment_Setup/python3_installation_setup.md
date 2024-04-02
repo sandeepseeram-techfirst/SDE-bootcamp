@@ -14,3 +14,10 @@ sudo apt install python3-pip
 
 ###### Python Virtual Environments 
  Python Virtual Environments are a method of creating isolated "environments" with specific versions of Python installed along with independent sets of libraries and dependencies.
+
+ sudo apt install python3.8-venv  </br>  
+ python3.8 -m venv py3-venv [create] </br>   
+ [activate] </br>  
+ source py3-venv/bin/activate </br>  
+  # Expected Output </br>  
+ (py3-venv) [dev@ubuntu ~]$ </br>   
