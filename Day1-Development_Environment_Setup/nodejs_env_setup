@@ -1,0 +1,2 @@
+There are two different Node.js options when installing. It’s possible to use the distro-stable package with APT, or to branch out and use version-specific versions of Node.js using NVM, the Node Version Manager.
+
