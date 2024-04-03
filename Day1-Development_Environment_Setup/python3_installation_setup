@@ -23,5 +23,5 @@ sudo apt install python3-pip
  (py3-venv) [dev@ubuntu ~]$ </br>   
 
 
-Deactivate the virtual environment. </br>  
-(py3-venv) [dev@ubuntu ~]$ deactivate </br>   
+Deactivate the virtual environment. 
+(py3-venv) [dev@ubuntu ~]$ deactivate   
