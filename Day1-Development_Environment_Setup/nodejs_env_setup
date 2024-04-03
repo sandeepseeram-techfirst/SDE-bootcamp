@@ -1,2 +1,14 @@
 There are two different Node.js options when installing. It’s possible to use the distro-stable package with APT, or to branch out and use version-specific versions of Node.js using NVM, the Node Version Manager.
 
+[Install] nodejs.
+sudo apt install nodejs
+
+[Install NPM] (Node Package Manager).
+sudo apt install npm
+
+[Check the version installed]
+nodejs -v
+# Expected output, depending on version of Ubuntu
+v10.19.0
+
+
