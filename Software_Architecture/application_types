@@ -4,7 +4,7 @@
 2. Can support occasionally connected scenarios
 3. Run on devices with limited hardware resources
 
-#### Rich client apps 
+#### Rich client apps
 
 1. Usually developed as a stand-alone application
 2. Can support disconnected or occasionally connected scenarios
