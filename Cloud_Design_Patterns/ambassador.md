@@ -10,4 +10,4 @@ Resilient cloud-based applications require features such as circuit breaking, ro
 
 Put client frameworks and libraries into an external process that acts as a proxy between your application and external services. Deploy the proxy on the same host environment as your application to allow control over routing, resiliency, security features, and to avoid any host-related access restrictions. You can also use the ambassador pattern to standardize and extend instrumentation. The proxy can monitor performance metrics such as latency or resource usage, and this monitoring happens in the same host environment as the application.
 
-![Ambassador Pattern ](image.png)
+![Ambassador Pattern ](ambassadorimage.png)
