@@ -13,4 +13,4 @@ A consumer can also partition resources, to ensure that resources used to call o
 ##### Notes 
 1. When partitioning consumers into bulkheads, consider using processes, thread pools, and semaphores. Projects like resilience4j and Polly offer a framework for creating consumer bulkheads.
 2. When partitioning services into bulkheads, consider deploying them into separate virtual machines, containers, or processes. Containers offer a good balance of resource isolation with fairly low overhead. 
-3. 
+3. Consider combining bulkheads with retry, circuit breaker, and throttling patterns to provide more sophisticated fault handling.
