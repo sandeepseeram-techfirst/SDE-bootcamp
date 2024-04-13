@@ -1,0 +1,2 @@
+#### Circuit Breaker pattern
+Handle faults that might take a variable amount of time to recover from, when connecting to a remote service or resource. This can improve the stability and resiliency of an application.
