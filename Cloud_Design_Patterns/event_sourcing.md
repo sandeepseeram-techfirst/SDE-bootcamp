@@ -6,3 +6,6 @@ This can simplify tasks in complex domains, by avoiding the need to synchronize 
 It can also provide consistency for transactional data, and maintain full audit trails and history that can enable compensating actions.
 
 Most applications work with data, and the typical approach is for the application to maintain the current state of the data by updating it as users work with it. For example, in the traditional create, read, update, and delete (CRUD) model a typical data process is to read data from the store, make some modifications to it, and update the current state of the data with the new values—often by using transactions that lock the data. 
+
+##### Solution
+The Event Sourcing pattern defines an approach to handling operations on data that's driven by a sequence of events, each of which is recorded in an append-only store. Application code sends a series of events that imperatively describe each action that has occurred on the data to the event store, where they're persisted. Each event represents a set of changes to the data (such as AddedItemToOrder).
