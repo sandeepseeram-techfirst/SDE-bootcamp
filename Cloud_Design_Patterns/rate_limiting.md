@@ -14,3 +14,5 @@ A service may throttle based on different metrics over time, such as:
 1. The number of operations (for example, 20 requests per second).
 2. The amount of data (for example, 2 GiB per minute).
 3. The relative cost of operations (for example, 20,000 RUs per second).
+
+Regardless of the metric used for throttling, your rate limiting implementation will involve controlling the number and/or size of operations sent to the service over a specific time period, optimizing your use of the service while not exceeding its throttling capacity.
