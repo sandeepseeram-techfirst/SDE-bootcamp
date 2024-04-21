@@ -6,7 +6,7 @@ A rate limiting pattern is appropriate in many scenarios, but it is particularly
 
 Performing large numbers of operations using a throttled service can result in increased traffic and throughput, as you'll need to both track rejected requests and then retry those operations. 
 
-##### Solution 
+##### Solution
 Rate limiting can reduce your traffic and potentially improve throughput by reducing the number of records sent to a service over a given period of time. 
 
 A service may throttle based on different metrics over time, such as:
