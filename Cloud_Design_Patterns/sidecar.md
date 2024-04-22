@@ -9,4 +9,4 @@ The sidecar pattern is sometimes referred to as the sidekick pattern and is a de
 ##### Solution
 Co-locate a cohesive set of tasks with the primary application, but place them inside their own process or container, providing a homogeneous interface for platform services across languages.
 
-A sidecar service isn't necessarily part of the application, but is connected to it. It goes wherever the parent application goes.
+A sidecar service isn't necessarily part of the application, but is connected to it. It goes wherever the parent application goes. Sidecars are supporting processes or services that are deployed with the primary application. 
