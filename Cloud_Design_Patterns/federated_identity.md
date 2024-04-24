@@ -9,4 +9,3 @@ Users typically need to work with multiple applications provided and hosted by d
 
 3. Complicate user management. Administrators must manage credentials for all of the users, and perform additional tasks such as providing password reminders.
 
-4. Users typically prefer to use the same credentials for all these applications.
