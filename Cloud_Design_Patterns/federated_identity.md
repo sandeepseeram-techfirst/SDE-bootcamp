@@ -17,3 +17,6 @@ Implement an authentication mechanism that can use federated identity. Separate 
 This can simplify development and allow users to authenticate using a wider range of identity providers (IdP) while minimizing the administrative overhead. 
 
 It also allows you to clearly decouple authentication from authorization.
+
+
+The trusted identity providers include corporate directories, on-premises federation services, other security token services (STS) provided by business partners, or social identity providers that can authenticate users who have, for example, a Microsoft, Google, Yahoo!, or Facebook account.
