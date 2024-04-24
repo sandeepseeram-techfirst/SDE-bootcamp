@@ -1,1 +1,2 @@
-#### Federated Identity pattern
+#### Federated Identity pattern 
+Delegate authentication to an external identity provider. This can simplify development, minimize the requirement for user administration, and improve the user experience of the application.
