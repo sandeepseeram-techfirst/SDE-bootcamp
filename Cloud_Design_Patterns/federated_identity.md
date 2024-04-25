@@ -30,3 +30,4 @@ The service that requires authentication must trust the IdP. The client applicat
 
 Federated authentication provides a standards-based solution to the issue of trusting identities across diverse domains, and can support single sign-on. This type of authentication is becoming more common across all types of applications, especially cloud-hosted applications, because it supports single sign-on without requiring a direct network connection to identity providers. The user doesn't have to enter credentials for every application. 
 This increases security because it prevents the creation of credentials required to access many different applications, and it also hides the user's credentials from all but the original identity provider. Applications see just the authenticated identity information contained within the token.
+
