@@ -4,3 +4,5 @@ Agile teams are made up of product owners, scrum masters, software developers, a
 
 What is the LeSS framework? 
 LeSS is a framework for scaling scrum to multiple teams who work together on a single product. It starts with a foundation of one scrum team, as defined by Ken Schwaber and Jeff Sutherland in the Scrum Guide, and applies to multiple teams who work together on one product. 
+
+The LeSS framework seeks to apply the principles and ideals of scrum in a large-scale enterprise context as simply as possible through defined rules and guides. Its simplicity has earned LeSS the label of being a “barely sufficient” framework, but that’s not meant to cast it in a negative light.
