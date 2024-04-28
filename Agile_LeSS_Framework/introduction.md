@@ -3,3 +3,4 @@
 Agile teams are made up of product owners, scrum masters, software developers, and others who work collaboratively to address complex problems through the creative delivery of valuable products. Scrum is one of the more popular agile methodologies that teams use to develop, deliver, and sustain complex products. Yet only recently have we effectively addressed scaling scrum in the enterprise with scaled agile process frameworks like Large-Scale Scrum (LeSS).
 
 What is the LeSS framework? 
+LeSS is a framework for scaling scrum to multiple teams who work together on a single product. It starts with a foundation of one scrum team, as defined by Ken Schwaber and Jeff Sutherland in the Scrum Guide, and applies to multiple teams who work together on one product. 
