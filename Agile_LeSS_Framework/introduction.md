@@ -18,7 +18,7 @@ LeSS defines 10 principles for applying the value, elements, and overall purpose
 4. More with less
 5. Whole product focus
 6. Customer-centric
-Continuous improvement towards perfection
-Systems thinking
+7. Continuous improvement towards perfection
+8. Systems thinking
 Lean thinking
 Queuing theory
