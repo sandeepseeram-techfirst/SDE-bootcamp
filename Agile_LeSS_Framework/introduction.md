@@ -20,5 +20,5 @@ LeSS defines 10 principles for applying the value, elements, and overall purpose
 6. Customer-centric
 7. Continuous improvement towards perfection
 8. Systems thinking
-Lean thinking
-Queuing theory
+9. Lean thinking
+10. Queuing theory
