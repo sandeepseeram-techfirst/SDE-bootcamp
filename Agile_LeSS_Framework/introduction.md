@@ -16,8 +16,8 @@ LeSS defines 10 principles for applying the value, elements, and overall purpose
 2. Empirical process control
 3. Transparency
 4. More with less
-Whole product focus
-Customer-centric
+5. Whole product focus
+6. Customer-centric
 Continuous improvement towards perfection
 Systems thinking
 Lean thinking
