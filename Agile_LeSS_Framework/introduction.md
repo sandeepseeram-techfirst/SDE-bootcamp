@@ -10,7 +10,9 @@ The LeSS framework seeks to apply the principles and ideals of scrum in a large-
 LeSS was forged through more than 600 experiments that involved expanding the practice of scrum, which at the time was thought to only support small, colocated groups. The LeSS experiments, guides, frameworks, and principles were created to support the needs of larger numbers of teams. In addition, LeSS rules were later released to better define and provide guidance on how to implement and execute LeSS and offer guides for adoption.
 
 ##### Principles
-LeSS defines 10 principles for applying the value, elements, and overall purpose of scrum across an enterprise. They help create more responsible teams with greater customer focus and collaboration. Teams focus on learning, transparency, and delivering customer-centric values that product organizations need to remain competitive and responsive. Here’s the complete list:  
+LeSS defines 10 principles for applying the value, elements, and overall purpose of scrum across an enterprise. They help create more responsible teams with greater customer focus and collaboration. Teams focus on learning, transparency, and delivering customer-centric values that product organizations need to remain competitive and responsive. 
+
+Here’s the complete list:  
 
 1. Large-Scale Scrum is scrum
 2. Empirical process control
