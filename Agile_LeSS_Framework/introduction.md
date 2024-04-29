@@ -14,8 +14,8 @@ LeSS defines 10 principles for applying the value, elements, and overall purpose
 
 1. Large-Scale Scrum is scrum
 2. Empirical process control
-Transparency
-More with less
+3. Transparency
+4. More with less
 Whole product focus
 Customer-centric
 Continuous improvement towards perfection
