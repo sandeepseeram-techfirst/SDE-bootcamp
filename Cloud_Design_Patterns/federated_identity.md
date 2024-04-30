@@ -1,4 +1,4 @@
-#### Federated Identity pattern 
+#### Federated Identity Pattern 
 Delegate authentication to an external identity provider. This can simplify development, minimize the requirement for user administration, and improve the user experience of the application.
 
 Users typically need to work with multiple applications provided and hosted by different organizations they have a business relationship with. These users might be required to use specific (and different) credentials for each one. This can:
