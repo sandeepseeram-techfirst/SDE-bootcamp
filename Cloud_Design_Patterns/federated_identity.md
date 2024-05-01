@@ -11,7 +11,7 @@ Users typically need to work with multiple applications provided and hosted by d
 
 4. Users typically prefer to use the same credentials for all these applications.
 
-##### Solution
+##### Solution 
 Implement an authentication mechanism that can use federated identity. Separate user authentication from the application code, and delegate authentication to a trusted identity provider. 
 
 This can simplify development and allow users to authenticate using a wider range of identity providers (IdP) while minimizing the administrative overhead. 
