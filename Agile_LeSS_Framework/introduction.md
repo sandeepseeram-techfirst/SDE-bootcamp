@@ -12,7 +12,7 @@ LeSS was forged through more than 600 experiments that involved expanding the pr
 ##### Principles
 LeSS defines 10 principles for applying the value, elements, and overall purpose of scrum across an enterprise. They help create more responsible teams with greater customer focus and collaboration. Teams focus on learning, transparency, and delivering customer-centric values that product organizations need to remain competitive and responsive. 
 
-Here’s the complete list:  
+Here’s the complete list:
 
 1. Large-Scale Scrum is scrum
 2. Empirical process control
