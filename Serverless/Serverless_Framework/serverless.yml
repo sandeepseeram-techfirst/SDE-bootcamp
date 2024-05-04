@@ -1,0 +1,9 @@
+service: users
+functions: # Your "Functions"
+  usersCreate:
+    events: # The "Events" that trigger this function
+      - httpApi: 'POST /users/create'
+  usersDelete:
+    events:
+      - httpApi: 'DELETE /users/delete'
+resources: # The "Resources" your "Functions" use. Raw AWS CloudFormation goes in here.
