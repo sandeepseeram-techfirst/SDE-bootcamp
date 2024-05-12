@@ -4,3 +4,4 @@
 pip install langchain 
 
 ##### Install using conda 
+install langchain -c conda-forge
