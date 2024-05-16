@@ -11,3 +11,10 @@ router.get('/', listRabbits)
 
 router.get('/:id', getRabbit)
 
+router.put('/:id', jsonParser, editRabbit)
+
+router.post('/', jsonParser, addRabbit)
+
+router.delete('/:id', deleteRabbit)
+
+module.exports = router
