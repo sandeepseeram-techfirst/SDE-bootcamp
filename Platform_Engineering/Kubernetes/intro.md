@@ -1,6 +1,6 @@
 #### Namespaces 
 
-controlplane $ kubectl get namespaces
+##### controlplane $ kubectl get namespaces
 NAME                 STATUS   AGE
 default              Active   22d
 kube-node-lease      Active   22d
@@ -9,3 +9,9 @@ kube-system          Active   22d
 local-path-storage   Active   22d
 controlplane $ 
 
+#### kube-system
+This namespace has objects created by Kubernetes system:
+
+##### kubectl get pods -n kube-system; echo
+
+Pods inside of this namespace are needed to make Kubernetes work, such as controllers and add-ons natively integrated with Kubernetes. 
