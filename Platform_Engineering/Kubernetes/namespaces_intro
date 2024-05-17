@@ -15,3 +15,7 @@ This namespace has objects created by Kubernetes system:
 ##### kubectl get pods -n kube-system; echo
 
 Pods inside of this namespace are needed to make Kubernetes work, such as controllers and add-ons natively integrated with Kubernetes. 
+
+
+##### controlplane $ kubectl create namespace dev-service1
+namespace/dev-service1 created
