@@ -1,0 +1,3 @@
+#### The view layer will be responsible for rendering the UI.
+#### The controllers layer will be responsible for defining routes and the logic for each of them.
+#### The model layer will be responsible for interacting with our database.
