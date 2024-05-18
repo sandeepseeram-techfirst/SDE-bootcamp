@@ -24,7 +24,7 @@ const editItem = (id, item) => {
     } catch (err) {
         console.error("editItem error", err)
     }
-}
+} 
 
 const addItem = item => {
     try {
