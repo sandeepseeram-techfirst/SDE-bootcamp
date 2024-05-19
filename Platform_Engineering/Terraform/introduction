@@ -43,3 +43,5 @@ commands will detect it and remind you to do so if necessary.
 
 terraform init to download the AWS provider code locally (in a hidden .terraform folder)
 
+$ terraform validate
+Success! The configuration is valid.
