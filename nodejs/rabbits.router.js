@@ -7,8 +7,8 @@ const { listRabbits, getRabbit, editRabbit, addRabbit, deleteRabbit } = require(
 
 const router = express.Router()
 
-router.get('/', listRabbits)
-
+router.get('/', listRabbits) 
+ 
 router.get('/:id', getRabbit)
 
 router.put('/:id', jsonParser, editRabbit)
