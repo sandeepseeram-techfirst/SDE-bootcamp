@@ -33,7 +33,7 @@ const addRabbit = (req, res) => {
     try {
         console.log( req.body.item )
         const resp = addItem(req.body.item)
-        res.status(200).send(resp)
+        res.status(200).send(resp) 
     } catch (err) {
         res.status(500).send(err)
     }
