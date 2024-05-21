@@ -10,5 +10,5 @@ const db = [
     { id: 9, name: 'Jas' },
     { id: 10, name: 'Jasmine' },
 ]
-
+ 
 module.exports = db
