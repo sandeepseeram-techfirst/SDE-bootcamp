@@ -4,7 +4,7 @@ var path = require('path');
 const rabbitControllers = require("./rabbits/controllers/rabbits.controllers")
 
 const app = express()
-const port = 7070 
+const port = 7070
 
 // Ejs config
 app.set("view engine", "ejs")
