@@ -23,7 +23,7 @@ sudo apt-get install libssl-dev (equivalent to openssl-dev on other distribution
 
 ##### Install the typical developer tools and utilities, for example, the gcc C compiler.
 sudo apt-get install build-essential 
-
+ 
 
 ##### Integrated Development Environment [IDE] 
 vscode 
