@@ -6,3 +6,6 @@ Istio supports managing traffic flows between microservices, enforcing access po
 
 kubectl cluster-info
 kubectl get nodes -o wide
+
+Install Istio: 
+
