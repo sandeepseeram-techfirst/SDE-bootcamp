@@ -12,3 +12,5 @@
 3. Accelerate product development and delivery by reusing and sharing platform tools and knowledge across many teams in an enterprise
 4. Reduce risk of security, regulatory and functional issues in products and services by governing platform capabilities and the users, tools and processes surrounding them
 5. Enable cost-effective and productive use of services from public clouds and other managed offerings by enabling delegation of implementations to those providers while maintaining control over user experience
+
+###### Gartner states: “By 2026, 80% of large software engineering organizations will establish Platform Engineering teams as internal providers of reusable services, components and tools for application delivery.” 
