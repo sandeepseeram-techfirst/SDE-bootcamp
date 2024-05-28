@@ -3,6 +3,7 @@
 Port is a SaaS product.
 Port is an internal developer portal solution, allowing you to create compelling developer experiences using the building blocks you need, according to your stack, developer personas and culture.
 
+Port offers a variety of plug-and-play integrations, covering many popular tools and platforms.
 
 ## Configuration
 
