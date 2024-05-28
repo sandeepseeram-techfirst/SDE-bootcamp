@@ -16,3 +16,6 @@ export PATH=/root/istio-${ISTIO_VERSION}/bin:$PATH
 
 mv /tmp/istio-course.yaml /root/istio-${ISTIO_VERSION}/manifests/profiles/
 istioctl install --set profile=istio-course -y --manifests=/root/istio-${ISTIO_VERSION}/manifests
+
+
+deploy Pilot, Mixer, Ingress-Controller, and Egress-Controller, and the Istio CA (Certificate Authority).
