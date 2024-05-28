@@ -1,8 +1,7 @@
 # Port
 
-Port is a SaaS product, with on-premise, open-source brokers. While we had considered requests for an on-premise Port in the past, we ended up choosing SaaS since it allows us to deliver features quickly and provide the best product. We also believe SaaS doesn’t mean compromised security, but rather the opposite.
-
-We put a lot of thought into Port’s design to make it secure. As a result, Port’s product doesn’t store secrets or credentials, and doesn't require whitelisting of IPs. Port can not make any inbound network calls into our customers’ networks. All communication between the broker and Port is one-way, initiated from the broker, and encrypted with TLS.
+Port is a SaaS product.
+Port is an internal developer portal solution, allowing you to create compelling developer experiences using the building blocks you need, according to your stack, developer personas and culture.
 
 
 ## Configuration
