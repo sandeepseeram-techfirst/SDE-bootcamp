@@ -19,3 +19,17 @@ istioctl install --set profile=istio-course -y --manifests=/root/istio-${ISTIO_V
 
 
 Deploy Pilot, Mixer, Ingress-Controller, and Egress-Controller, and the Istio CA (Certificate Authority).
+
+
+
+controlplane $ kubectl get pods,services -n istio-system
+NAME                                        READY   STATUS    RESTARTS   AGE
+pod/istio-egressgateway-6f594c7ff-r6fxs     1/1     Running   0          54s
+pod/istio-ingressgateway-74df4d6767-2kwlm   1/1     Running   0          54s
+pod/istiod-7bdb6b4fb8-fwtrj                 1/1     Running   0          55s
+
+NAME                           TYPE           CLUSTER-IP      EXTERNAL-IP   PORT(S)                                                                      AGE
+service/istio-egressgateway    ClusterIP      10.104.241.51   <none>        80/TCP,443/TCP                                                               54s
+service/istio-ingressgateway   LoadBalancer   10.100.74.19    <pending>     15021:30103/TCP,80:30849/TCP,443:31150/TCP,31400:31501/TCP,15443:30332/TCP   54s
+service/istiod                 ClusterIP      10.103.166.44   <none>        15010/TCP,15012/TCP,443/TCP,15014/TCP                                        55s
+controlplane $ 
