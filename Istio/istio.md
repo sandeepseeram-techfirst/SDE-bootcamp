@@ -9,7 +9,7 @@ kubectl get nodes -o wide
 
 Install Istio: 
 
-export ISTIO_VERSION=1.13.3
+export ISTIO_VERSION=1.13.3 
 curl -L https://istio.io/downloadIstio | TARGET_ARCH=x86_64 sh -
 echo "export PATH=/root/istio-${ISTIO_VERSION}/bin:\$PATH" >> .plainrc
 export PATH=/root/istio-${ISTIO_VERSION}/bin:$PATH
