@@ -5,6 +5,8 @@ Port is an internal developer portal solution, allowing you to create compelling
 
 Port offers a variety of plug-and-play integrations, covering many popular tools and platforms. These integrations come with pre-defined blueprints and mappings, so you can start ingesting data into your catalog right away. You can always customize them after installation to fit your exact needs.
 
+![alt text](image.png)
+
 ## Configuration
 
 1. Sign up for a free Port account: https://www.getport.io/try-now
