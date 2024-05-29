@@ -10,5 +10,5 @@ An Internal Developer Platform (IDP) is built by a platform team to build golden
 5. Cortex - Build reliable and innovative software at scale
 6. Flanksource Mission Control - Kubernetes-native Internal Developer Portal and GitOps orchestrator.
 7. OpsLevel	- All your services, all in one interface
-Port	A developer portal for all your services,software & resources
-Roadie	Backstage as a service: adopt OSS without the overhead
+8. Port - A developer portal for all your services,software & resources
+9. Roadie	Backstage as a service: adopt OSS without the overhead
