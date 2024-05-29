@@ -7,7 +7,7 @@ An Internal Developer Platform (IDP) is built by a platform team to build golden
 2. Backstage - An open platform for building developer portals
 3. Compass from Atlassian - Developer experience platform and service catalog
 4. configure8 - An enterprise-grade developer portal solution
-Cortex	Build reliable and innovative software at scale
+5. Cortex - Build reliable and innovative software at scale
 Flanksource Mission Control	Kubernetes-native Internal Developer Portal and GitOps orchestrator.
 OpsLevel	All your services, all in one interface
 Port	A developer portal for all your services,software & resources
