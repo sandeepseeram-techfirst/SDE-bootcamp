@@ -22,7 +22,7 @@ Deploy Pilot, Mixer, Ingress-Controller, and Egress-Controller, and the Istio CA
 
 
 
-controlplane $ kubectl get pods,services -n istio-system
+controlplane $ kubectl get pods,services -n istio-system 
 NAME                                        READY   STATUS    RESTARTS   AGE
 pod/istio-egressgateway-6f594c7ff-r6fxs     1/1     Running   0          54s
 pod/istio-ingressgateway-74df4d6767-2kwlm   1/1     Running   0          54s
