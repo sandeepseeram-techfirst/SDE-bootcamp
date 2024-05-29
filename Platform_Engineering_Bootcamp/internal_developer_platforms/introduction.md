@@ -8,7 +8,7 @@ An Internal Developer Platform (IDP) is built by a platform team to build golden
 3. Compass from Atlassian - Developer experience platform and service catalog
 4. configure8 - An enterprise-grade developer portal solution
 5. Cortex - Build reliable and innovative software at scale
-Flanksource Mission Control	Kubernetes-native Internal Developer Portal and GitOps orchestrator.
-OpsLevel	All your services, all in one interface
+6. Flanksource Mission Control - Kubernetes-native Internal Developer Portal and GitOps orchestrator.
+7. OpsLevel	All your services, all in one interface
 Port	A developer portal for all your services,software & resources
 Roadie	Backstage as a service: adopt OSS without the overhead
