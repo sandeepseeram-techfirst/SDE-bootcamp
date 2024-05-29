@@ -2,9 +2,9 @@
 An Internal Developer Platform (IDP) is built by a platform team to build golden paths and enable developer self-service. An IDP consists of many different techs and tools, glued together in a way that lowers cognitive load on developers without abstracting away context and underlying technologies. 
 
 
-Developer Portals & Service Catalogs
-1. AutoCloud	Automatically generate secure Terraform code for anything
-Backstage	An open platform for building developer portals
+# Developer Portals & Service Catalogs
+1. AutoCloud - Automatically generate secure Terraform code for anything
+2. Backstage	An open platform for building developer portals
 Compass from Atlassian	Developer experience platform and service catalog
 configure8	An enterprise-grade developer portal solution
 Cortex	Build reliable and innovative software at scale
