@@ -6,6 +6,6 @@ Grafana produces dashboards based on the data collected by Prometheus. kubectl a
 
 ##### Check Status
 
-As with Istio, these addons are deployed via Pods.
+As with Istio, these addons are deployed via Pods. 
 
 kubectl get pods -n istio-system
