@@ -5,7 +5,7 @@ The data plane is composed of a set of intelligent proxies (Envoy) deployed as s
 The control plane manages and configures the proxies to route traffic. Additionally, the control plane configures Mixers to enforce policies and collect telemetry. 
 
 
-Components: 
+Components:
 
 Envoy - Sidecar proxies per microservice to handle ingress/egress traffic between services in the cluster and from a service to external services. The proxies form a secure microservice mesh providing a rich set of functions like discovery, rich layer-7 routing, circuit breakers, policy enforcement and telemetry recording/reporting functions. 
 
