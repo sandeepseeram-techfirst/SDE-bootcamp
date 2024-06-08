@@ -13,6 +13,6 @@ Pilot - Pilot provides service discovery for the Envoy sidecars, traffic managem
 
 Mixer - Create a portability layer on top of infrastructure backends. Enforce policies such as ACLs, rate limits, quotas, authentication, request tracing and telemetry collection at an infrastructure level.
 
-Ingress/Egress - Configure path based routing. 
+Ingress/Egress - Configure path based routing.
 
 Istio CA - Secures service to service communication over TLS. Providing a key management system to automate key and certificate generation, distribution, rotation, and revocation.
