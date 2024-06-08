@@ -16,6 +16,6 @@ template=template,
 
 )
 
-final_prompt = prompt.format(location=USER_INPUT )
+final_prompt = prompt.format(location=USER_INPUT ) 
 
 print(f"LLM Output: {llm(final_prompt)}")
