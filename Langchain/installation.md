@@ -3,7 +3,7 @@
 ##### Install using pip
 pip install langchain 
 
-To install with all the dependencies: 
+To install with all the dependencies:  
 pip install langchain[all] 
 
 ##### Install using conda 
