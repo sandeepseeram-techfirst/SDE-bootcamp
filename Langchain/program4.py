@@ -18,7 +18,7 @@ template=template)
 
 chain_one = LLMChain(llm = llm, prompt = first_prompt)
 
-# second step in chain
+# second step in chain 
 
 second_prompt = PromptTemplate(
 
