@@ -21,7 +21,6 @@ istioctl install --set profile=istio-course -y --manifests=/root/istio-${ISTIO_V
 Deploy Pilot, Mixer, Ingress-Controller, and Egress-Controller, and the Istio CA (Certificate Authority).
 
 
-
 controlplane $ kubectl get pods,services -n istio-system 
 NAME                                        READY   STATUS    RESTARTS   AGE
 pod/istio-egressgateway-6f594c7ff-r6fxs     1/1     Running   0          54s
