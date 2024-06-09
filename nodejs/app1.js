@@ -3,7 +3,7 @@ var path = require('path');
 
 const rabbitControllers = require("./rabbits/controllers/rabbits.controllers")
 
-const app = express()
+const app = express() 
 const port = 7070
 
 // Ejs config
