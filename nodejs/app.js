@@ -2,7 +2,7 @@ const express = require('express');
  
 const rabbitRoutes = require('./rabbits/routes/rabbits.routes')
 
-const app = express()
+const app = express() 
 const port = 7070
 
 /* Routes */ 
