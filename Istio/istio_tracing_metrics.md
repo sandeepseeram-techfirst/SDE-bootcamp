@@ -4,7 +4,7 @@ Prometheus gathers metrics from the Mixer. kubectl apply -f /root/istio-1.13.3/s
 
 Grafana produces dashboards based on the data collected by Prometheus. kubectl apply -f istio-1.13.3/samples/addons/grafana.yaml
 
-##### Check Status 
+##### Check Status
 
 As with Istio, these addons are deployed via Pods.
 
