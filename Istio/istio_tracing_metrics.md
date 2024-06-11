@@ -1,4 +1,4 @@
-To collect and view metrics provided by Mixer, install Prometheus and Grafana addons. 
+To collect and view metrics provided by Mixer, install Prometheus and Grafana addons.
 
 Prometheus gathers metrics from the Mixer. kubectl apply -f /root/istio-1.13.3/samples/addons/prometheus.yaml
 
