@@ -5,7 +5,7 @@ Istio is an open platform that provides a uniform way to connect, manage, and se
 Istio supports managing traffic flows between microservices, enforcing access policies, and aggregating telemetry data, all without requiring changes to the microservice code.
 
 kubectl cluster-info 
-kubectl get nodes -o wide
+kubectl get nodes -o wide 
 
 Install Istio:
 
