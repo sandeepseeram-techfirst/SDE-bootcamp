@@ -1,0 +1,79 @@
+Programming Languages
+Solidity
+JavaScript
+Rust
+Python
+C++
+Go
+TypeScript
+Ruby
+C#
+Perl
+Frameworks
+Hardhat
+Truffle
+Alchemy SDK
+Solang
+Parasol
+Yakindu
+Libraries
+ethers.js
+web3.js
+web3j
+libsnark
+Bulletproofs
+Bellman
+gnark
+Arkworks
+Circomlib
+libSTARK
+plonky2
+plonk
+Spartan
+DIZK
+wasmsnark
+jellyfish
+libiop
+Nova
+plonky3
+Tools
+Circom
+Arkworks
+ZoKrates
+Snarkjs
+RCC
+Chiquito
+zkREPL
+crrl
+Shield
+Ecne
+Picus
+Papyrus
+Other Tools
+Alchemy University
+EthFiddle
+Etherscan
+Custom Webhooks
+ConsenSys ABI Decoder
+Truffle Verify
+Ethersplay
+Decurity
+Mockthereum
+Solang
+VScode
+Sepolia Testnet Explorer
+Moralis
+Solscan
+Arbiscan
+Real Vision
+SolanaFM
+Holograph
+Starknet Ecosystem
+Harvard Blockchain
+Stanford Blockchain Club
+Blockchain at Berkeley
+Ethernow.xyz
+Vyper
+Yakindu
+ABIType
+Blockscout
