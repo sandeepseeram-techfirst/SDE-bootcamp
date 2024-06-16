@@ -15,4 +15,4 @@ Mixer - Create a portability layer on top of infrastructure backends. Enforce po
 
 Ingress/Egress - Configure path based routing.
 
-Istio CA - Secures service to service communication over TLS. Providing a key management system to automate key and certificate generation, distribution, rotation, and revocation.
+Istio CA - Secures service to service communication over TLS. Providing a key management system to automate key and certificate generation, distribution, rotation, and revocation. 
