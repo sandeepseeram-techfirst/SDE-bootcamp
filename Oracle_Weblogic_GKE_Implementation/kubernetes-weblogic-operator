@@ -1,0 +1,4 @@
+#### Installing Kubernetes WebLogic Operator
+
+
+kubectl create namespace kubernetes-weblogic-operator-ns
