@@ -5,5 +5,4 @@ kubectl create namespace sample-weblogic-operator-ns
 kubectl create serviceaccount -n sample-weblogic-operator-ns sample-weblogic-operator-sa 
 
 helm repo add weblogic-operator https://oracle.github.io/weblogic-kubernetes-operator/charts --force-update  
-helm install sample-weblogic-operator weblogic-operator/weblogic-operator --namespace sample-weblogic-operator-ns --set serviceAccount=sample-weblogic-operator-sa --wait
-
+helm install sample-weblogic-operator weblogic-operator/weblogic-operator --namespace sample-weblogic-operator-ns --set serviceAccount=sample-weblogic-operator-sa --wait 
