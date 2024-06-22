@@ -3,7 +3,7 @@ node01 $ kubectl apply -f - <<EOF
 > kind: RuntimeClass
 > metadata:
 >   name: gvisor
-> handler: runsc
+> handler: runsc 
 > EOF
 error: error validating "STDIN": error validating data: failed to download openapi: Get "http://localhost:8080/openapi/v2?timeout=32s": dial tcp 127.0.0.1:8080: connect: connection refused; if you choose to ignore these errors, turn validation off with --validate=false
-node01 $ 
+node01 $
