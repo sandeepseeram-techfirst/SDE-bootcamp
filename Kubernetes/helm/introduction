@@ -1,0 +1,4 @@
+1. Creating the Helm chart file
+2. Creating the Helm values file
+3. Creating the template files
+4. Packaging the Helm chart file
