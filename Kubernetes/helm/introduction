@@ -7,3 +7,6 @@
 
 The file Chart.yaml describes the Helm chart on a high-level. 
 Mandatory attributes include the chart's API version, the name, and the version.
+
+
+The file values.yaml defines key-value pairs to be used to replace placeholders in the YAML template files. 
