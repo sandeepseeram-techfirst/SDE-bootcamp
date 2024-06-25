@@ -2,7 +2,7 @@
 2. Creating the Helm values file
 3. Creating the template files
 4. Packaging the Helm chart file
-
+ 
 
 The file Chart.yaml describes the Helm chart on a high-level. 
 Mandatory attributes include the chart's API version, the name, and the version.
