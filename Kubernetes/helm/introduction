@@ -9,3 +9,13 @@ Mandatory attributes include the chart's API version, the name, and the version.
 
 
 The file values.yaml defines key-value pairs to be used to replace placeholders in the YAML template files. 
+
+
+$ helm package .
+
+Successfully packaged chart and saved it to: /root/web-app-2.5.4.tgz
+The file web-app-2.5.4.tgz should exist in the current directory:
+
+$ ls web-app-2.5.4.tgz
+
+web-app-2.5.4.tgz
