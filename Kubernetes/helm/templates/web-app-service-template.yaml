@@ -7,7 +7,7 @@ metadata:
   namespace: app-stack
 spec:
   ports:
-  - name: web-app-port 
+  - name: web-app-port
     port: {{ .Values.service_port }}
     protocol: TCP
     targetPort: 3000
