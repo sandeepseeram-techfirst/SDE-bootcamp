@@ -1,0 +1,15 @@
+
+There are many advantages that a typical centralized architecture cannot provide:
+
+#### Trust
+Value transfers are operated in a peer-to-peer fashion, without trusted third-parties. That way, users are not dependent on a central entity or platform.
+
+#### Censorship resistance
+Because a central entity does not operate the network, it cannot be shut down by one particular entity. Reaching a Consensus is required to change the state of the network.
+
+#### Availability
+A decentralized system is more robust as there is no central point of failure.
+
+#### Transparency
+All interactions and states are stored immutably on the blockchain and publicly available for anyone to review.
+
