@@ -10,10 +10,12 @@ const amount = utils.format.parseNearAmount("1.5");
 
 async function main() {
   const near = await connect(config);
-  const sender = await near.account(sender);
+  const senderAccount = await near.account(sender);
 
-  // TODO send those tokens here
-  const result =
+  // Send tokens here
+  const result = await senderAccount.sendMoney(receiver, amount);
+  
   console.log("Transaction Results: ", result.transaction);
-  await sender.sendMoney(receiver, amount);
 }
+
+main();
