@@ -123,7 +123,7 @@ export class Wallet {
         });
     
         return providers.getTransactionLastResult(outcome);
-      };
+      }; 
     
       /**
        * Retrieves transaction result from the network
