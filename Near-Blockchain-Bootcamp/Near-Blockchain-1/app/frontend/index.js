@@ -108,6 +108,6 @@ function update_UI(greeting, from, messages) {
       </tr>
     `
     item.innerHTML = innerHTML
-    list.appendChild(item)
+    list.appendChild(item) 
   })
 }
