@@ -1,4 +1,4 @@
-const nearAPI = require("near-api-js"); 
+const nearAPI = require("near-api-js");
 const { connect, utils } = nearAPI;
 const { config } = require('./config'); // loads config settings
 
