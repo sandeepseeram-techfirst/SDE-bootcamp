@@ -12,7 +12,7 @@ async function main() {
   const near = await connect(config);
   const senderAccount = await near.account(sender);
 
-  // Send tokens here 
+  // Send tokens here
   const result = await senderAccount.sendMoney(receiver, amount);
   
   console.log("Transaction Results: ", result.transaction);
