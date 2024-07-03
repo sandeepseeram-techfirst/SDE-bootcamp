@@ -80,7 +80,7 @@ function signedOutFlow() {
   document.querySelector('#signed-in-flow').style.display = 'none';
   document.querySelector('#signed-out-flow').style.display = 'block';
 }
- 
+
 // UI: Displaying the signed in flow container and fill in account-specific data
 function signedInFlow(accountId) {
   document.querySelector('#signed-out-flow').style.display = 'none';
