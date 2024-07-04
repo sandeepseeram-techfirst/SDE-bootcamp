@@ -74,7 +74,7 @@ async function getGreetingAndMessages() {
   // handle UI stuff
   update_UI(currentGreeting, from_index, latestMessages);
 }
-
+ 
 // UI: Display the signed-out-flow container
 function signedOutFlow() {
   document.querySelector('#signed-in-flow').style.display = 'none';
